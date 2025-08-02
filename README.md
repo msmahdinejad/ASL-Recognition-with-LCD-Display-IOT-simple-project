@@ -31,14 +31,14 @@ This project combines image processing, machine learning, and embedded systems t
 
 ### Python Setup
 ```bash
-git clone https://github.com/yourusername/ASL-Recognition-LCD.git
-cd ASL-Recognition-LCD
+git clone https://github.com/msmahdienjad/ASL-Recognition-LCD.git
+cd ASL-Recognition-with-LCD-Display
 pip install -r requirements.txt
 ```
 
 ### Arduino Setup
 1. Install LiquidCrystal_I2C library in Arduino IDE
-2. Upload `LCD_I2C.ino` to Arduino UNO
+2. Upload `Arduino.ino` to Arduino UNO
 
 ## Wiring
 
