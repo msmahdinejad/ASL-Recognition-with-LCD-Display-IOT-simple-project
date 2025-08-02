@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ## Wiring
 
-![Wiring Diagram](Images/3.jpg)
+![Wiring Diagram](Images/3.png)
 
 ```
 Arduino UNO    →    LCD I2C Module
@@ -68,7 +68,7 @@ A5 (SCL)       →    SCL
 4. Show ASL letters to the camera
 5. Recognized text appears on LCD
 
-![System Demo](Images/2.jpg)
-![System Demo](Images/1.jpg)
+![System Demo](Images/2.png)
+![System Demo](Images/1.png)
 
 **Acknowledgments**: Python computer vision implementation based on [Sign Language to Text and Speech](https://github.com/tanmayJivnani/Sign-Language-to-Text-and-Speech) by Tanmay Jivnani.
